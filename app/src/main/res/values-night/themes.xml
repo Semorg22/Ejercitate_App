@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Ejercitate_App" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/Night_Blue3</item>
+        <item name="colorPrimaryVariant">@color/Night_Navi2</item>
+        <item name="colorOnPrimary">@color/Night_Black1</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/Night_Blue3</item>
+        <item name="colorSecondaryVariant">@color/Night_Winter4</item>
+        <item name="colorOnSecondary">@color/Night_Black1</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

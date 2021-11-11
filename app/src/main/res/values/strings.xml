@@ -1,0 +1,27 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Ejercitate</string>
+
+    <!-- Hints -->
+    <string name="hint_name">Nombre y Apellido</string>
+    <string name="hint_userName">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_Confirm_password">Confirma tu contraseña</string>
+    <string name="hint_age">Edad</string>
+    <string name="hint_peso">Peso</string>
+    <string name="hint_altura">Altura</string>
+    <string name="hint_phone">Telefono</string>
+    <string name="hint_email">Correo Electronico</string>
+
+    <!-- Botones -->
+    <string name="botonRegistro">Registrarse</string>
+    <string name="botonLogin">Login</string>
+
+    <!-- Textos -->
+    <string name="texto_activity_main">EJERCITATE</string>
+    <string name="slogan_activity_main">Tu App favorita de ejercicios</string>
+    <string name="recordar_contraseña">Recuerdame mi contraseña</string>
+
+    <!-- Content Description -->
+    <string name="logoDescription">Ejercitate - App Logo</string>
+</resources>
